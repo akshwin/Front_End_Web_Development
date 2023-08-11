@@ -1,0 +1,5 @@
+HOW WEBSITES WORK ??
+
+# HTML - contents 
+# CSS - styling 
+# JS - Functionalities

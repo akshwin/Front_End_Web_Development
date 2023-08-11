@@ -1,0 +1,7 @@
+HOW INTERNET WORKS ??
+
+# Internet is a long wire that connects different computer 
+# Computer which are available 24 / 7 is called server 
+# User computer is called client 
+# Client -> ISP(Internet Service Provider) -> DNS -> ISP -> Client 
+# 

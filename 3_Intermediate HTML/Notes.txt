@@ -1,0 +1,32 @@
+
+### LIST ELEMENTS 
+
+# UNORDERRED LIST 
+<ul> 
+    <li></li>
+    <li></li>
+</ul>
+
+# ORDERED LIST 
+<ol>
+    <li></li>
+    <li></li>
+</ol>
+
+
+#### NESTING AND INDENTATION 
+
+# Can nest a list inside a list
+# Indentation is required to make it difference 
+# It is makes tags clear
+
+### ANCHOR ELEMENTS 
+
+<a href = "link">Text to be shown </a>
+# here href is a attribute 
+"link " is the value of the attribute 
+
+### IMAGE ELEMENTS 
+
+# <img src = "url" alt="alternate text"/>
+# self closing tag 

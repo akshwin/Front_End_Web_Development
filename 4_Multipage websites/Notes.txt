@@ -1,0 +1,31 @@
+### FILE PATHS 
+
+## ABSOLUTE 
+# Relative to the system(root)
+# helpful to Navigate 
+
+## RELATIVE 
+# Relative to a locationof the code
+# Shorter in general 
+
+# SPECIAL CHARACTER 
+../doc -> go up a level 
+./doc -> stay within the current directory and navigate to file within it 
+
+
+### WEBPAGES 
+# Contains a lot of webpages 
+# We can link by a and img tags 
+
+### HTML BOILERPLATE 
+# Doctype - version of HTML 
+# lang -> language 
+# head -> about the website in browser , not seen by user
+    # charset - UTF 8 
+    # Tilte -> displyed in tab bar 
+# body
+    # all tthe content of the websites 
+
+## WEB HOSTING 
+# We need to put all file in web server 
+# we can see in local machine 

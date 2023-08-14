@@ -1,0 +1,62 @@
+### WHY WE NEED CSS
+# Cascading Style sheet 
+# Style sheet - > language 
+# Used to style the website 
+
+### HOW TO ADD CSS
+# Inline 
+    <html style ="background:blue"></html>
+    Adding css to single element 
+
+# Internal
+    <head>
+        <style>
+            html{ # selector !!!
+                background:red;
+            }
+        </style>
+    </head>
+    Anywhere in html document 
+    Applying for single web page
+# External
+<head>
+<link
+    rel = "stylesheet"
+    href="./styles.css"
+/>
+</head>
+
+### CSS SELECTORS 
+
+# html element which we want to change the property 
+
+Element selector
+    # Applied to all element with that tag
+
+Class selector 
+    .class{
+        color:red;
+    }
+    add attribute to an element 
+    group elements in the html 
+
+    Can be applied to many elements 
+
+ID selector 
+    #main{
+        color:red
+    }
+
+Applied only to 1 element ( only 1 h1 out of lot of h1)
+
+
+Attribute selector 
+p[draggable="false"]{
+    color:red;
+}
+
+Universal selector 
+
+    *{
+        color:red;
+    }

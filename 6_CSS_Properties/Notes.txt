@@ -1,0 +1,61 @@
+### CSS COLORS 
+
+# backgorund-color = red
+# color:red;
+# colorhunt.co 
+
+### FONT PROPERTIES 
+
+# color 
+# font-weight 
+# font-size
+# font-family
+
+#FONT SIZE
+font size -> set to px 
+1 px = 1/96th inch 
+1 pt = 1/72 th inch 
+1 em = 100th of parent 
+1 rem = 100th of root
+
+#FONT WEIGHT 
+
+# bold 
+# lighter 
+# bolder 
+
+# FONT FAMILY 
+
+# Helvetica is sans-serif 
+# Times New Roman is serif 
+
+https://fonts.google.com/
+
+# TEXT ALIGN 
+
+# center 
+# left 
+# right ....
+
+
+### CSS BOX 
+
+# height 
+# width  
+# border: 10px solid back  # doesnt affest the element . It goes out 
+    # border-top:0px;
+    # border-width:0px 10px 20px 30px( top right bottom left)
+    # border-width : 0px 20px ( top + bottom)(right + left )
+# padding 
+    # padding - gap between element(inside) and border 
+    # The size of the box dont change.
+# margin 
+    # outside margin 
+    # between border and other element (outside)
+
+margin -> border -> padding -> width x height 
+top right bottom left 
+(top+bottom) (right+left)
+
+# Creating a box for our own 
+<div> </div> -> Content division element 

@@ -1,0 +1,32 @@
+### CSS DISPLAY 
+
+# BLOCK 
+
+# Its a full block 
+# In different lines 
+# allows to set height  and width
+
+# INLINE 
+
+# With a space in same line untill we cant fit 
+# Then they would go to next line 
+# Cant set size .. it will be automatically set according to the text
+
+# INLINE BLOCK  
+
+# Allows to set height andd width 
+# Its in same line or next line if required
+
+# NONE
+
+# It will disappear
+
+
+### CSS FLOAT 
+
+# 
+
+# 
+
+
+#

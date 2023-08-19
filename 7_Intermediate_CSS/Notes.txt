@@ -1,0 +1,87 @@
+### CSS SPECIFICITY AND INHERITANCE 
+
+# POSITION 
+
+li{
+    colr:red;
+    color:blue; /// the one at bottom will be applied 
+}
+
+# SPECIFICITY
+
+li{color:blue;}
+.first-class{color:red;}
+li[draggable]{color:purple}
+#first-id{color:orange}
+
+id > attribute > class > element
+
+# TYPE 
+
+<link rel = 'stylesheet' href = "style.css">
+<style></style>
+<h1 style = " "></h1>
+
+Inline > Internal > External 
+
+# IMPORTANCE 
+
+color : red  ; 
+colr : green !important ;
+
+
+### COMBINING CSS SELECTOR 
+
+# GROUP -> apply to both the selector 
+
+selector , selector {
+    color:violet;
+}
+
+# CHILD -> applyto direct child 
+
+selector > selector(applied to this) {
+    colr : firebrick;
+}
+
+# DESCENDANT -> apply to descendant 
+
+selector selector(applied to this ) {
+    color:blue;
+}
+
+# CHAINING -. apply to where all selectors are true  
+
+selectorselector{
+    color:seagreen;
+}
+
+# COMBINING SELECTOR 
+
+selector selector {
+    font-size : 2rem;
+}
+
+### CSS POSITIONING 
+
+# STATIC 
+
+default flow 
+added goes to the bottom 
+
+# RELATIVE 
+
+relative to default position
+
+# ABSOLUTE 
+
+relative to nearest positioned anccestor 
+OR  
+top left corner of the webpage 
+
+z - index -> default = 0 
+z-index : -1 -> behind 
+
+# FIXED 
+
+relative to the top left corner of the browser 

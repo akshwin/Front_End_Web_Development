@@ -10,20 +10,53 @@ body {
   flex: 1;
 }
 
+.creative{
+  color:midnightblue;
+}
+
 @media(max-width:680px){
   .logo{
     width: 100px;
   }
 }
-.creative{
-  color:midnightblue;
-}
+
 h1 {
   font-size: 5rem;
+  text-align: center;
 }
 
+.card{
+  width: 100%;
+  display: block;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
+.card img{
+  margin-bottom: 10px;
+  width: 100%;
+  display: inline;
+  object-fit: cover;
+}
 footer {
   text-align: right;
   color: midnightblue;
 }
 
+.title-image{
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
+
+.card{
+  width: 45%;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float:right;
+}

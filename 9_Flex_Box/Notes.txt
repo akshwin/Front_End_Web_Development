@@ -1,0 +1,29 @@
+### FLEX BOX 
+
+## FLEX DISPLAY 
+
+# .container{
+    display:flex;
+    gap : 10px ;
+}
+
+# It is similar to block -> It is arranged in same line 
+# In inline-flex it occupies next if space is not sufficient
+
+
+## FLEX DIRECTION
+
+# flex-direction: column / row ;
+# flex-basis : 100px ; -> height of eacch element 
+# flex -basis - > applied on child 
+
+## FLEX LAYOUT 
+
+# order : 0 # default 
+# order : 1 
+# bigger order in right most side 
+
+
+# flex-wrap :
+# allow the elements to go to next line if space is not there 
+# property on the parent 

@@ -27,3 +27,28 @@
 # flex-wrap :
 # allow the elements to go to next line if space is not there 
 # property on the parent 
+
+
+## justify: 
+
+# justify-content : flex-start;
+# bunched to left 
+# justify-content : center;
+# justify-content : space-between;;
+
+
+## align-items 
+
+#align-items:flex-start;
+#align-items:flex-end;
+#align-items:center;
+# align-self:flex-start;
+
+#align conten:centre;
+
+## FLEX SIZING 
+
+# content width < width < flex-basis < min-width/max-width
+#  flex-grow :0/1
+#  flex-shrink :0/1
+#  flex: grow shrink basis ; // default : 1 1 0 

@@ -1,0 +1,6 @@
+## GRID DISPLAY 
+
+# Good for 2D 
+# Can have flexbox inside grid ..
+
+## GRID SIZING 

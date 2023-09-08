@@ -1,5 +1,4 @@
-
-COLOR THEORY 
+## COLOR THEORY 
 
 Red -> love ,energy ,intensity 
 Yellow -> attention , joy , intellect 
@@ -12,7 +11,9 @@ No color discord -> dont use coplementary colors
 
 colorhunt.co
 
-TYPOGRAPHY AND FONT 
+## TYPOGRAPHY AND FONT 
 
 SERIEF 
 SAN SERIEF 
+
+## UI DESIGN 

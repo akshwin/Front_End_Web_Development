@@ -16,4 +16,20 @@ colorhunt.co
 SERIEF 
 SAN SERIEF 
 
-## UI DESIGN 
+## MANAGING ATTENTION WITH UI DESIGN 
+
+# color 
+# size
+# Layout 
+# Alignment 
+# White space 
+# Audience 
+
+
+## USER EXPERIENCE DESIGN 
+
+# Simplicity 
+# Consistency
+# Reading pttern 
+# All platform design 
+# Dont use your powers of Evil

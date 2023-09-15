@@ -1,0 +1,27 @@
+## INTRODUCTION TO JAVASCRIPT 
+
+# Ad free
+# More functionalities are not enabled
+# Youtube wont work 
+# Java and Javascript are not same
+# Interpreted
+
+
+## ALERT - ADDING BEHAVIOUR TO WEBSITE 
+
+# alert();
+
+## DATA TYPES
+
+# String -> "Hello"
+# numbers -> 123
+# boolean -> true / false
+
+# typeof () -> gives datatype 
+
+## JAVASCRIPT VARIABLES 
+
+# prompt -> asks a question and askes user to input 
+# var myname = "Akshwin"
+
+## NAMING CONVENTIONS 

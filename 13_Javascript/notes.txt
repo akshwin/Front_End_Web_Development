@@ -25,3 +25,26 @@
 # var myname = "Akshwin"
 
 ## NAMING CONVENTIONS 
+
+# cant begin with a number 
+# No space in 
+# can contain numbers , string , $ , _
+# Camel casing -> myName
+
+## STRING CONCATENATION 
+
+# "a"+ "b"== ab 
+
+## STRING LENGTH 
+
+# word.length  
+
+## SLICING 
+
+#name.slice(0,1)
+
+# CHANGE UPPER LOWER 
+
+# word.toUpperCase()
+# word.toLowerCase()
+

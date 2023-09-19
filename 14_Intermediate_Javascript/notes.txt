@@ -1,0 +1,30 @@
+# random 
+
+# Math.random()-> between 0 and 0.99
+
+## CONDITIONALS
+
+#if (){
+
+} else {
+
+}
+
+## COMPARATORS 
+# === ->is equla to 
+# !== -> not equal to 
+# > , >=
+# < , <=
+
+When we use == , it dont check the datatype 
+
+
+# && ->AND
+# || -> OR 
+# ! -> NOT
+
+## ARRAYS 
+
+# 
+# 
+#

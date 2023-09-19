@@ -48,3 +48,22 @@
 # word.toUpperCase()
 # word.toLowerCase()
 
+
+## OPERATIONS 
+
+# + , - , / , * , %
+# x++
+# x--
+
+## FUNCTIONS 
+
+function fucnction_name(argumnet ){
+    
+}
+fucnction_name();
+
+## OUTPUTS ASD RETURN VALUES 
+
+# return value;
+#  
+

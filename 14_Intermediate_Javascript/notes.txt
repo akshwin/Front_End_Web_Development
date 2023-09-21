@@ -25,6 +25,20 @@ When we use == , it dont check the datatype
 
 ## ARRAYS 
 
-# 
-# 
-#
+# var name = ['','','','']
+# name.length
+# name[0]
+# name.include("") _. whether it maches with the item in array
+# name.push()
+
+## WHILE LOOP 
+
+# while(){
+
+}
+
+## FOR LOOP 
+
+# for ( var i = 0 ; i < n ; i++){
+    
+}

@@ -1,5 +1,8 @@
-document.querySelector("button").addEventListener("click",handleClick)
+var numberofButtons = document.querySelectorAll(".drum").length;
 
-function handleClick(){
-    alert("I got clicked");
+for( var i = 0 ; i <numberofButtons ; i++){
+    document.querySelectorAll(".drum")[i].addEventListener("click",function(){
+        var audio = new Audio("audio_file.")
+        audio.play()
+    })
 }

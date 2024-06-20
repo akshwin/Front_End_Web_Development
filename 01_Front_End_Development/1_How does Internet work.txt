@@ -1,0 +1,8 @@
+Internet 
+
+Client -> user 
+Server -> 24/7
+
+Client -> ISP -> DNS Server ( Find IP ) -> Send back to us via ISP 
+
+nslookup.io -> IP of websites 

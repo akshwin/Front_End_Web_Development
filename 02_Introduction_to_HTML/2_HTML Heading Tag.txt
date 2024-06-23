@@ -1,6 +1,0 @@
-Heading Element 
-
-# <h1> This is a heading element </h1>
-# <h1></h1> -> Tag 
-# <h1> -> Opening tag 
-# </h1> -> Closing Tag 

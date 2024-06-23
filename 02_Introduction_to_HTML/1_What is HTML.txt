@@ -1,6 +1,0 @@
-What is HTML ? 
-
-# Content and Structure of the file 
-# Hyper Text Markup Language 
-# Hyper Text -> link 
-# Mark up language -> Bold / Italic / Lined -> Done using HTML Tags 

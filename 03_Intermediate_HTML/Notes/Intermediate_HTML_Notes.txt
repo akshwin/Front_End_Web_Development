@@ -1,0 +1,53 @@
+# LIST ELEMENTS 
+
+<ul> </ul> -> unordered list 
+<ol> </ol> -> ordered list 
+<li> </li> -> list items 
+
+<ul>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+
+<ol>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ol> 
+
+# NESTING AND INDENTATION 
+
+<ul>
+    <li>A</li>
+    <li>B</li>
+    <ol>
+        <li>B1</li>
+        <li>B2</li>
+        <ul>
+            <li>B2a</li>
+            <ul>
+                <li>B2aa</li>
+                <li>B2ab</li>
+            </ul>
+            <li>B2b</li>
+            <li>B2c</li>
+        </ul>
+        <li>B3</li>
+        <ol>
+            <li>B31</li>
+            <li>B32</li>
+        </ol>
+    </ol>
+    <li>C</li>
+</ul>
+
+# ANCHOR ELEMENT 
+
+<a href= "www.gogole.com">This is a link </a>
+
+# IMAGE ELEMENT 
+
+<img src = " This has the link of the image" alt="This is alternate image"></img>

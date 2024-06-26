@@ -1,0 +1,9 @@
+# COMPUTER FILE PATH 
+
+# ../essay.docx -> go up a level 
+# ./ dog.png 
+
+# WHAT ARE WEBPAGES ?? 
+
+# 
+# 

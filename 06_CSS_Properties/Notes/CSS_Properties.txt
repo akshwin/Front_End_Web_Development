@@ -1,0 +1,28 @@
+# CSS PROPERTIES 
+
+# CSS COLORS 
+    * background color 
+    * color 
+    * colorhunt.co -> for more colors 
+
+# FONT PROPERTIES 
+
+    * font size : 20 px  
+        * 1px = 1/96th inch 
+        * 1pt = 1/72 th inch 
+        * 1 em = 100% parent 
+        * 1 rem = 100 % root 
+    * font-weight : normal / bold / lighter / number 
+    * font-family : Helvetica , sans-serif / serif 
+
+    # fonts.google.com -> all fonts 
+    # Put link under head 
+
+    * text-align:centre/start/end/justify 
+
+# INSPECTION CSS 
+
+    * 
+    * 
+    * 
+    

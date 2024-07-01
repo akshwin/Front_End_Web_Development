@@ -1,9 +1,30 @@
 # COMPUTER FILE PATH 
 
-# ../essay.docx -> go up a level 
-# ./ dog.png 
+    *  ../essay.docx -> go up a level 
+    * ./ dog.png 
 
 # WHAT ARE WEBPAGES ?? 
 
-# 
-# 
+    * Website contains many webpages 
+
+# HTML BOILERPLATE
+
+    <DOCTYPE html>
+    <html lang = "en">
+        <head>
+            <meta charset="UTF-8">
+            <title></title>
+        </head>
+
+        <body>
+        <h1> Hello world </h1>
+        </body>
+    </html>
+
+# HOSTING 
+
+	* Access from anywhere 
+	* Put all files to web server 
+	* Can access anytime anywhere 
+
+	# LOCAL DEVELOPMENT -> Only in our system 

@@ -22,7 +22,17 @@
 
 # INSPECTION CSS 
 
-    * 
-    * 
-    * 
+    * Use google cconsole 
+    * Doesnt affect actual website 
     
+# THE BOX MODEL 
+
+    * border - 10px ssolid black
+        border-width : 0px 110px 20px 30px 
+        border-with : 0px 20 px (top/bottom , right/left)
+    * padding - push border of a element  
+    * margin - outside of border 
+
+    padding -> border -> margin (inside to outside )
+
+    <div></div> -> invisible box and content inside it and separate from other boxes 

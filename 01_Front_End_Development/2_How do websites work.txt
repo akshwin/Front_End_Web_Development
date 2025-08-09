@@ -1,6 +1,5 @@
 How does website work ?? 
 
-
 # Return files (HTML , CSS , JS )
 # HTML -> Content 
 # CSS -> Styling 
